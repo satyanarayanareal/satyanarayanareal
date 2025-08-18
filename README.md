@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Satyanarayana Kolati  
 
-🎓 **Associate Faculty | Data Scientist | AI & ML Enthusiast**  
+🎓 **Mathematics | Data Scientist | AI & ML Enthusiast**  
 💡 Passionate about **Mathematics, Statistics, Artificial Intelligence, and Big Data**  
 🌍 Based in India | 🌱 Always learning & exploring new technologies  
 
@@ -12,7 +12,7 @@
 - 🤖 Currently exploring **AI research, LLMs, Deep Learning, and Data Mining**  
 - 📚 Interested in **Ph.D. in Mathematics related Artificial Intelligence** (Research in ML, NLP & Big Data)  
 - ✨ Completed **multiple internships & certifications** in AI, Python, R, and Data Analytics  
-- 💻 Experienced in **Spark, RDBMS, Data analytics , Cybersecurity (beginner)**  
+- 💻 Experienced in **Mathematics, Statistics, Data analytics , Cybersecurity (beginner)**  
 
 ---
 
@@ -33,7 +33,7 @@
 
 ---
 
-## 🎓 Education & Internships  
+## 🎓 Internships  
 - 📌 **AI Internship @ ROBOKWIK.COM** (2024)  
 - 📌 **Internship @ Main Flow Services Technologies Pvt. Ltd.** (2025)  
 - 📌 Certifications in **Generative AI, Python Development, Data Analytics (R, Excel, SPSS)**  
@@ -50,8 +50,8 @@
 ---
 
 ## 📫 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/) *(add your link)*  
-- 📧 satyanarayana.kolati@example.com *(replace with real email)*  
+- 💼 [LinkedIn](https://linkedin.com/in/www.linkedin.com/in/ satyanarayanakolati) *(add your link)*  
+- 📧 satyanarayana.kolati.satyanarayana@gmail.com *(replace with real email)*  
 - 🏠 GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)  
 
 ---
