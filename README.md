@@ -53,8 +53,8 @@
 ---
 
 ##🌐 Socials: 📫 Connect with Me  
-- 💼 [LinkedIn](https://linkedin.com/in/www.linkedin.com/in/ satyanarayanakolati) *(add your link)*  
-- 📧 satyanarayana.kolati.satyanarayana@gmail.com *(replace with real email)*  
+- 💼 [LinkedIn](https://linkedin.com/in/www.linkedin.com/in/ satyanarayanakolati)
+- 📧 satyanarayana.kolati.satyanarayana@gmail.com 
 - 🏠 GitHub: [YourGitHubUsername](https://github.com/satyanarayanareal/satyanarayanareal.git)  
 ---
 
